@@ -8,10 +8,10 @@
         "releasedAt": 1728568365348,
         "promotions": {
             "downloads": {
-                "modrinth": "https://modrinth.com/",
-                "curseforge": "https://curseforge.com/",
-                "generic": "https://example.com/"
-            }
+                "modrinth": "https://modrinth.com/modpack/szyszpack/version/rL3rJHuD",
+                "generic": "https://github.com/szymon-suski/szysz-server/blob/c67ff8f0bd59b1089475b88589b00aa92002736c/Szysz%20Pack%201.0.0.mrpack"
+            },
+            "updateType": "minor"
         }
     }
     ]
