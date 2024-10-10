@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/szysz_server_layout.txt"
-hash = "13edc9960953a00a2067a369b01f4c9e31055a65417b68c3028c8a8e7adfd7b4"
+hash = "d3453fa7987c4fc5e49f579d6297f170fd456281c4ba39db08ff5bb15c23b5f6"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -35,18 +35,6 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
-
-[[files]]
-file = "config/modpack-update-checker-info.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/modpack-update-checker/config.json"
-hash = "770225798f3c528dba6d9640900c37610c12db2bcc32d668663f35d4c09e3aaf"
-
-[[files]]
-file = "config/modpack-update-checker/modpack-info.txt"
-hash = "23ba925015488cc7691602f4f811ae0d272c7e51491d2aa59dbae223881fd036"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -210,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventive-inventory.pw.toml"
-hash = "4df1631b744abfb81e20723144c6ea2ecad23d52be11b9ed917a473777357c87"
+hash = "b4b46043aabfac7f86bef618d2d902a71695f2f4fe3ec556cce442eeebd68013"
 metafile = true
 
 [[files]]
@@ -276,11 +264,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "a3753e729d72f1f51022380efd645a205d50b23f69e435385efbe1849e8cda7f"
-metafile = true
-
-[[files]]
-file = "mods/modpack-update-checker.pw.toml"
-hash = "86ff8d3e798526440b1eed1ab9582cd08955a4a0d3c58699119ac1d2f4d7834f"
 metafile = true
 
 [[files]]

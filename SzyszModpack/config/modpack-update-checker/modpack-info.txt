@@ -1,1 +1,0 @@
-Automatyczne sprawdzanie czy jest dostępna nowa wersja paczki modów!
