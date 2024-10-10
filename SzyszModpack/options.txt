@@ -1,0 +1,4 @@
+version:3955
+resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.9.2.zip","continuity:glass_pane_culling_fix","continuity:default"]
+incompatibleResourcePacks:["appleskin","fancymenu","konkrete","modernfix","spark","yet_another_config_lib_v3"]
+lang:pl_pl

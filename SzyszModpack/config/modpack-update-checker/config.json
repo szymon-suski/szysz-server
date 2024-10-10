@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 9,
+  "currentVersion": "1.0.0",
+  "modpackName": "Szysz Pack",
+  "modpackAuthor": "Szysz",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://raw.githubusercontent.com/szymon-suski/szysz-server/refs/heads/main/",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": []
+  }
+}
