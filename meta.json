@@ -1,18 +1,16 @@
 {
     "schemaVersion": 1,
     "hotfixesFormat": null,
-    "versions": 
-    [
+    "versions": [
         {
-        "id": "1.0.0",
-        "releasedAt": 1728568365348,
-        "promotions": {
-            "downloads": {
-                "modrinth": "https://modrinth.com/modpack/szyszpack/version/rL3rJHuD",
-                "generic": "https://github.com/szymon-suski/szysz-server/blob/c67ff8f0bd59b1089475b88589b00aa92002736c/Szysz%20Pack%201.0.0.mrpack?raw=true"
-            },
-            "updateType": "minor"
+            "id": "1.0.0",
+            "releasedAt": 1728568365348,
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/szyszpack/version/rL3rJHuD",
+                },
+                "updateType": "minor"
+            }
         }
-    }
     ]
 }
