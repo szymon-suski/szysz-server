@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/szysz_server_layout.txt"
-hash = "d3453fa7987c4fc5e49f579d6297f170fd456281c4ba39db08ff5bb15c23b5f6"
+hash = "f50d8557272f32fac257a88cf162542661cfc5b71065d06db026ebfa44858cb7"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
