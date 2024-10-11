@@ -52,6 +52,11 @@ hash = "9460d497d821c589a08bbec71b094ce4fd8540324ee9a3f95aecc5ea1cb6399f"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "ecb1e63b15ddbaf45af311d4d97c5cea8338df18514e3369700f47ba599e8e16"
+metafile = true
+
+[[files]]
 file = "mods/better-animations-collection.pw.toml"
 hash = "3ae3c9faad9c5e5c4ae6e1805e991c23350d03677543214bec7e5248852b9ace"
 metafile = true
@@ -69,6 +74,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "8bc168948c5f92a10252f12ad4f41caeefbe508f0326fc4185217d60c4cb2292"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "77c88fc2f3c4d3a17c329e83ac40ea091410fa1f0b5ba5d812beb8e9c30e26cb"
 metafile = true
 
 [[files]]
@@ -99,6 +109,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "03afedbbc59e77752ee55a6a041a3767af731b7f8faa28e3b3256ad9be5b67a6"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "0b88cb55499097063b55ecf0e7b4d41dbe37d4c8ec8509bab89ef3f313e5210a"
 metafile = true
 
 [[files]]
@@ -312,6 +327,11 @@ hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "40099e8b4fddb92f5398eb92aef469278fc4201a5221701be7592d7314209eed"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "3353a2bd898c6061b45a483e1ca99514ba32c78ec9825775662d5306d22af97a"
 metafile = true
@@ -359,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "695176ca996e639044d0d526cd6c56a95c9897e85e7a8119a2d14a712f755733"
 metafile = true
 
 [[files]]
