@@ -217,6 +217,11 @@ hash = "17c32da77a0b6a5fbbb7184b20254dfb96a2ea14f453fd7b1c5e7b4ba22a168d"
 metafile = true
 
 [[files]]
+file = "mods/kiss.pw.toml"
+hash = "de1944f9e22b5ebc1df0e2ceb10a81ec8148c771d18382141fc4e15e0dd00a2f"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "34d75daff8b8260780d97bbc2dc545739399df1d5ac304eeb2f80e23354cf3af"
 metafile = true
