@@ -212,11 +212,6 @@ hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
 
 [[files]]
-file = "mods/inventive-inventory.pw.toml"
-hash = "b4b46043aabfac7f86bef618d2d902a71695f2f4fe3ec556cce442eeebd68013"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "17c32da77a0b6a5fbbb7184b20254dfb96a2ea14f453fd7b1c5e7b4ba22a168d"
 metafile = true
