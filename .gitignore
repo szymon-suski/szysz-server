@@ -1,5 +1,8 @@
 # Exclude exported CurseForge zip files
 *.zip
 
+# Exception for zip files
+!SzyszModPack/xaero/world-map/Multiplayer_minecraft.szysz.com.pl/null/mw$default/*.zip
+
 # Exclude exported Modrinth modpacks
 *.mrpack
