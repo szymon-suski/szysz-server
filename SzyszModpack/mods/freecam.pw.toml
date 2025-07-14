@@ -1,13 +1,13 @@
-name = "Freecam (Modrinth Edition)"
-filename = "freecam-fabric-modrinth-1.3.0+mc1.21.jar"
+name = "Freecam"
+filename = "freecam-neoforge-1.3.4+mc1.21.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/vomskVK3/freecam-fabric-modrinth-1.3.0%2Bmc1.21.jar"
+url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/qRDUGFkZ/freecam-neoforge-1.3.4%2Bmc1.21.6.jar"
 hash-format = "sha512"
-hash = "8fb32e06a5b28eba41fc4a4cfe5db727da85dcce8c4d4732325befb2903c6f7f95bbd6926791def6bda93342e2dd0fe266d050f6d218e92a721d68d0d5a50d18"
+hash = "6ccebcd0f493fbb05a4d73aa414d98f5788e975c40104c1171caa93aa4beeec958901ce357010079db63039d8446e558f11e25ddfbc1e97dd1509ecad570d6d3"
 
 [update]
 [update.modrinth]
 mod-id = "XeEZ3fK2"
-version = "vomskVK3"
+version = "qRDUGFkZ"
