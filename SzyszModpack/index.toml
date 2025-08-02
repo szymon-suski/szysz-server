@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "8c12d6ae13767c7ba82743530c740c0392fc84c08224765349ef297c418445dd"
+hash = "2d1c297c06a8781464a18d28d4a6d5c4807d216e42f6e315215d244ecdcb254b"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "a721bb4bba5fee8e2765cec944c705814c1d01d736d06b6101a4b4b74f9f95d7"
+hash = "c4fe9b4bf32bfab724bc66e1ced3bcb127082b98e7affe0b333d6185c7bc5e2a"
 metafile = true
 
 [[files]]
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "2c1fffee6dc05e029ef09ae987ea5fd8dfc6985ae36a40555856f947f106e080"
+hash = "e8f81c2dc9931e88d0cdefcf148309e1e152fbf2042fb991aa9d36439f0a81ed"
 metafile = true
 
 [[files]]
