@@ -1,3 +1,7 @@
+confirmedMultiworld:mw$default
+autoMWBinding:mw$-27597538:mw$default
+autoMWBinding:mw$default:mw$-27597538
+MWName:mw$-27597538:Map 1
 MWName:mw$default:Default
 caveModeType:1
 dimensionTypeId:minecraft:overworld

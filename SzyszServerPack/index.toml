@@ -61,11 +61,6 @@ hash = "39465e2a53a097c58b42ac17638bd89215b400825affca399d79419216566339"
 metafile = true
 
 [[files]]
-file = "mods/afk-display.pw.toml"
-hash = "d9c3351a87aad54e713ebec309711938162c328fc467bd76f64ae6f99156854c"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "307857742e77d6a95af92b963f890459aa62ddce3fe9bf707a91484f86c97ceb"
 metafile = true
