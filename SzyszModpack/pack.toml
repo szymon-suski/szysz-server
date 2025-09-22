@@ -1,12 +1,12 @@
 name = "Szysz Modpack"
 author = "Szysz"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1fc0458395f9e1449bda4cd92dd7a94bab2563a0822d470b35ec71201aff4fca"
+hash = "47d9d6ff68713cb9f4b905bd53a11d769a1353ddbd29d7bc4a38b2041e32c574"
 
 [versions]
 fabric = "0.17.2"
