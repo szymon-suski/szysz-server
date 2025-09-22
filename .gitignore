@@ -3,6 +3,7 @@
 
 # Exception for zip files
 !SzyszModPack/xaero/world-map/Multiplayer_minecraft.szysz.com.pl/null/mw$default/*.zip
+!SzyszModpack/xaero/world-map/Multiplayer_minecraft.szysz.com.pl/DIM-1/mw$-27597538/*.zip
 
 # Exclude exported Modrinth modpacks
 *.mrpack
