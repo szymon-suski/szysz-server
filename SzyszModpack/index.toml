@@ -536,10 +536,6 @@ file = "xaero/world-map/Multiplayer_minecraft.szysz.com.pl/null/mw$-27597538/-4_
 hash = "5403c9d8ac102a444abf0295adb6b4893efb2499d2b7c1611ab7e691ba8d72f6"
 
 [[files]]
-file = "xaero/world-map/Multiplayer_minecraft.szysz.com.pl/null/mw$-27597538/.lock"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "xaero/world-map/Multiplayer_minecraft.szysz.com.pl/null/mw$-27597538/cache/1/-2_-2.xwmc"
 hash = "5706de9fd5d6e0d02285e2d496db882729967ef6288328080815d372a2c202a0"
 
@@ -882,10 +878,6 @@ hash = "7583226bb1b22f598d4e8cdf511331a6ae242cca1e525ddbbda81750dd9cb609"
 [[files]]
 file = "xaero/world-map/Multiplayer_minecraft.szysz.com.pl/null/mw$default/-7_4.zip"
 hash = "39cdd5ea6104e265a1ac3a17aad26d8e5da9c70d957bc10e4b30042f56449a2e"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_minecraft.szysz.com.pl/null/mw$default/.lock"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "xaero/world-map/Multiplayer_minecraft.szysz.com.pl/null/mw$default/0_-1.zip"
