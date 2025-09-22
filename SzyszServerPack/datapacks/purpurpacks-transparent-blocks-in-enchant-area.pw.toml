@@ -1,0 +1,13 @@
+name = "Transparent Blocks In Enchant Area [PurpurPack]"
+filename = "world_behavior_transparent_blocks_in_enchant_area_v4.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NhxPgV4c/versions/R6BzsMYg/world_behavior_transparent_blocks_in_enchant_area_v4.4.zip"
+hash-format = "sha512"
+hash = "1707c3d26b6e895a6d2df2dfd1924a1e3aa5866ef8306c190c0567a575d909265e530efea623d23a00e2def665c328ae9797a8fc3b4e81edb0e890e0e6f77ed5"
+
+[update]
+[update.modrinth]
+mod-id = "NhxPgV4c"
+version = "R6BzsMYg"

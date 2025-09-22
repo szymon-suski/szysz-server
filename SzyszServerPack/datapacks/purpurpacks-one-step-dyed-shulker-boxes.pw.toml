@@ -1,0 +1,13 @@
+name = "One-Step Dyed Shulker Boxes [PurpurPack]"
+filename = "crafting_misc_one_step_dyed_shulker_boxes_v4.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cNHq7t9M/versions/ANdA9oq1/crafting_misc_one_step_dyed_shulker_boxes_v4.4.zip"
+hash-format = "sha512"
+hash = "7cc88a85e06fd4d82f2de9c1dcbc2cff1528b5195915c4ba7fc8bbf7188275f955512cd10a06d4217b3b74c50ae6ca0a9b5404013546b5545a9bcd47a300a85c"
+
+[update]
+[update.modrinth]
+mod-id = "cNHq7t9M"
+version = "ANdA9oq1"

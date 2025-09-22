@@ -1,0 +1,17 @@
+name = "Szysz Server Pack"
+author = "Szysz"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bcc8e88c4d70df37c1d93b2db7b54317d3637525a46c487c33a23e11646a4cdc"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.8"
+
+[options]
+acceptable-game-versions = ["1.21.7"]
+datapack-folder = "datapacks"

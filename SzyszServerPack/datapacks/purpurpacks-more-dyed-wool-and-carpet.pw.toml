@@ -1,0 +1,13 @@
+name = "More Dyed Wool and Carpet [PurpurPack]"
+filename = "crafting_misc_more_dyed_wool_and_carpet_v5.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z9M75QAX/versions/d3ht9e2G/crafting_misc_more_dyed_wool_and_carpet_v5.4.zip"
+hash-format = "sha512"
+hash = "62cad2451c867e4e0bad778177e54fd8d596fb7ed46189062712ac99301ee7345a7417b147b5d23ab0472d6763094c6f8f69b05577343a4889c12fbbe66fb20a"
+
+[update]
+[update.modrinth]
+mod-id = "z9M75QAX"
+version = "d3ht9e2G"

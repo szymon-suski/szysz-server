@@ -1,0 +1,13 @@
+name = "Copper Block Beacon Base [PurpurPack]"
+filename = "beacon_base_copper_v4.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zFdrE9Wt/versions/g8cPaPIu/beacon_base_copper_v4.4.zip"
+hash-format = "sha512"
+hash = "7bea8ae90c560d40b397a5ac49c632d732f5ed41712c463ce4fd8c767acdfdf9e179afcc0c5b88b12837eba4e823b9a1619a21ead097177f3825936fe9aa5db7"
+
+[update]
+[update.modrinth]
+mod-id = "zFdrE9Wt"
+version = "g8cPaPIu"

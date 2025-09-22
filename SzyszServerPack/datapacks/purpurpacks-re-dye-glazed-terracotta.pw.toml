@@ -1,0 +1,13 @@
+name = "Re-Dye Glazed Terracotta [PurpurPack]"
+filename = "crafting_re_dye_glazed_terracotta_v2.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mBcDOO3o/versions/hzjuJomw/crafting_re_dye_glazed_terracotta_v2.4.zip"
+hash-format = "sha512"
+hash = "6b7377dbf3e9b26bd9de043ae00226b8c8399eb5e06a3370ce21e24ea7df6fcad14e6e9b78cc293009450a413fe67e0c882d5323875e96474ffc7b6398908586"
+
+[update]
+[update.modrinth]
+mod-id = "mBcDOO3o"
+version = "hzjuJomw"

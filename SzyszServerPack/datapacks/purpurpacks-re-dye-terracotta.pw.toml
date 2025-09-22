@@ -1,0 +1,13 @@
+name = "Re-Dye Terracotta [PurpurPack]"
+filename = "crafting_re_dye_terracotta_v4.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lANiwxxT/versions/vsP52ZJ3/crafting_re_dye_terracotta_v4.4.zip"
+hash-format = "sha512"
+hash = "13fd3eabe11650f0447da7f2da197407e099b4837c101dca34fa0e2ee48ca2792ace61fde49141c82d93780620f1a83582761673550013fbf4d483e9bbdb6257"
+
+[update]
+[update.modrinth]
+mod-id = "lANiwxxT"
+version = "vsP52ZJ3"
