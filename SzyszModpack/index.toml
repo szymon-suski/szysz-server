@@ -332,11 +332,6 @@ hash = "75450d4d7139edebd35377d96e7267c777d53faf9f11d46f48c10044308336b0"
 metafile = true
 
 [[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-hash = "23d0857606a4319432e689ebb66d0b858cb5fdc7c5442bd7858ab3457683d37f"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "d3ce7c562cb2d457391f3ea7992f1018055544035097547d9bc2d30b7429c8ea"
 metafile = true

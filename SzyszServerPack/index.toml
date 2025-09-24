@@ -206,11 +206,6 @@ hash = "b6f8c89b43c9d783794451fab4aec7f0aead3f7e44266bc4eaae469dd0eac350"
 metafile = true
 
 [[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-hash = "23d0857606a4319432e689ebb66d0b858cb5fdc7c5442bd7858ab3457683d37f"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "a6948eb25808d55a8dc3b9a64999181ebae738c3679ced2981c7c1ec34b9b0b6"
 metafile = true
