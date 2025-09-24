@@ -42,6 +42,11 @@ hash = "7cfd3485931eb237e346fbda606b4b28663e9d3b3efa56d37c69355681f0a1d8"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bc0fc7ccf2970ecb88998d801ccec7856e29202d70c19d3802bee08034b0dfc1"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
 metafile = true
@@ -77,6 +82,11 @@ hash = "65ba148bc2832d78b433e76eccfbdbb1456066a9d14dac621a3b730b109b16cb"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "6dee7917c9156b4281bec000688abfa299a11e118fba9817966832e02f148d68"
+metafile = true
+
+[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "e3f48e4cf0b08c8e6d2b91fe79b05a0b6edf2be5de8a6d91f68001a81952a12e"
 metafile = true
@@ -84,6 +94,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "ade1b7e69863b637fce80130baba133817cf8eaf49d60f39bb86039b917c41bb"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "1edd2cfabb619660184561ab311bf5a6ad8d49d950030de1fef3cae4f9a549dd"
 metafile = true
 
 [[files]]
@@ -109,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "ae894d01b48b0e28d156d0d30f81c6b27cd39fc851ca6314e703393f214ae7e7"
 metafile = true
 
 [[files]]
@@ -309,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "75450d4d7139edebd35377d96e7267c777d53faf9f11d46f48c10044308336b0"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "23d0857606a4319432e689ebb66d0b858cb5fdc7c5442bd7858ab3457683d37f"
 metafile = true
 
 [[files]]

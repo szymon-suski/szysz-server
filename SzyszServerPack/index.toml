@@ -61,6 +61,11 @@ hash = "39465e2a53a097c58b42ac17638bd89215b400825affca399d79419216566339"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bc0fc7ccf2970ecb88998d801ccec7856e29202d70c19d3802bee08034b0dfc1"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "307857742e77d6a95af92b963f890459aa62ddce3fe9bf707a91484f86c97ceb"
 metafile = true
@@ -76,6 +81,11 @@ hash = "ecc31f759861b74870b86dc383eace909a46aaf2b835bd0ef61ec96b19ef0551"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "6dee7917c9156b4281bec000688abfa299a11e118fba9817966832e02f148d68"
+metafile = true
+
+[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "e3f48e4cf0b08c8e6d2b91fe79b05a0b6edf2be5de8a6d91f68001a81952a12e"
 metafile = true
@@ -83,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "2c912bceb71760927f62a82238e320e6eccaa57383d8f0db9e729b4b6dd5e063"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "1edd2cfabb619660184561ab311bf5a6ad8d49d950030de1fef3cae4f9a549dd"
 metafile = true
 
 [[files]]
@@ -111,6 +126,11 @@ hash = "10d0fedaab6a4f7ef05e06882e61864599f5dddafe55902b25ed475f81b6b5ce"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "ae894d01b48b0e28d156d0d30f81c6b27cd39fc851ca6314e703393f214ae7e7"
+metafile = true
+
+[[files]]
 file = "mods/datapack-injector.pw.toml"
 hash = "2f5fef8f6e54a4bb678e8fd2952a03d64e736cff426502fb77ffd8173505e7a5"
 metafile = true
@@ -133,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
@@ -178,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "b6f8c89b43c9d783794451fab4aec7f0aead3f7e44266bc4eaae469dd0eac350"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "23d0857606a4319432e689ebb66d0b858cb5fdc7c5442bd7858ab3457683d37f"
 metafile = true
 
 [[files]]
