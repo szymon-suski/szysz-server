@@ -141,11 +141,6 @@ hash = "1a3c70470af98fcf70c22dfa16f64e4259458072290c4ab1e31569874e709358"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-hash = "937acae581d8c4340d141446a7adb5b3b1915130fd483bee067d45aade834a8a"
-metafile = true
-
-[[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "1fc15d0ee6913ae274b146a8bfcb0f0992b35126583b3b9dd6811820c1466d67"
 metafile = true
@@ -243,9 +238,4 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "cfa4ddfc8999e7be331c6dad1f2a0372f996243241d21697939e6838b3402c6d"
-metafile = true
-
-[[files]]
-file = "mods/zombify.pw.toml"
-hash = "1e710a949925b895b8b84ba6f5b01d8408a72d656bbe85fb0ceecc5d69359275"
 metafile = true
