@@ -1,13 +1,13 @@
 name = "Re-Dye Concrete [PurpurPack]"
-filename = "crafting_re_dye_concrete_v2.4.zip"
+filename = "purpurpacks-re-dye-concrete-2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1hrzfBkm/versions/M13mTX5u/crafting_re_dye_concrete_v2.4.zip"
+url = "https://cdn.modrinth.com/data/1hrzfBkm/versions/bqwPkLMl/purpurpacks-re-dye-concrete-2.5.jar"
 hash-format = "sha512"
-hash = "4ea93a6889f3d4f181cb9e8baa350587420d9b508db4dc3c48e0cdd19fa573694d66b662c91a8e4baed843ad55d592f5aceb7cdd591804993325bc1a5b3d56b5"
+hash = "cff6a3f1ffc1fb35976f4606af744f52fc73f17b5da825ef5590b0ce313057570eb04bb334b85a38c708e2470ef128c369ad13c3ebc59e2b7bf761eb9b974b73"
 
 [update]
 [update.modrinth]
 mod-id = "1hrzfBkm"
-version = "M13mTX5u"
+version = "bqwPkLMl"

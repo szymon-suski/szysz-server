@@ -1,13 +1,13 @@
 name = "Essential Commands"
-filename = "essential_commands-0.38.5-mc1.21.8.jar"
+filename = "essential_commands-0.38.6-mc1.21.9.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/6VdDUivB/versions/BBQodJEo/essential_commands-0.38.5-mc1.21.8.jar"
+url = "https://cdn.modrinth.com/data/6VdDUivB/versions/YyD8j5eB/essential_commands-0.38.6-mc1.21.9.jar"
 hash-format = "sha512"
-hash = "ef7ffe7dabe7b2a8200bacd7ef5f751d35001c2295f7a9d480b7e203a090c3b774984d3e0488e3e694f8c07a38a979756381248b6298881fa2ab2081eef7329d"
+hash = "ac211d8f1b369cce5995daa2e63c1ac967cf0986974af8a9e8805a40f4704124b0c7585afe0e7b1954534d24e187c701ec44189af8ff8d8a345aca91fc2c4acf"
 
 [update]
 [update.modrinth]
 mod-id = "6VdDUivB"
-version = "BBQodJEo"
+version = "YyD8j5eB"

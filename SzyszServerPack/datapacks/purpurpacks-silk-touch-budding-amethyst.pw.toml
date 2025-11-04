@@ -1,13 +1,13 @@
 name = "Silk Touch Budding Amethyst [PurpurPack]"
-filename = "blocks_silk_touch_budding_amethyst_v4.4.zip"
+filename = "purpurpacks-silk-touch-budding-amethyst-4.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7P6tQJuB/versions/2xifrdak/blocks_silk_touch_budding_amethyst_v4.4.zip"
+url = "https://cdn.modrinth.com/data/7P6tQJuB/versions/PkQ0VK9E/purpurpacks-silk-touch-budding-amethyst-4.5.jar"
 hash-format = "sha512"
-hash = "217097ed629a22de17f09dad7d0e2451049e6ed4a58fb86bf109ed377cb64ecacaf9f50075102c57a6396808ef78be13540a75695ad7b50fb2005129b631c246"
+hash = "85ff569fc98bfc34018871d60bf834f947676d4e66ee5d55b2773f8d85f02fdbbae4ce148d7954eb977122ddfde389eabbef4ee52c2350ed94094709d7575ee5"
 
 [update]
 [update.modrinth]
 mod-id = "7P6tQJuB"
-version = "2xifrdak"
+version = "PkQ0VK9E"

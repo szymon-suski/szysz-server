@@ -1,13 +1,13 @@
 name = "Axolotls Ignore Passives [PurpurPack]"
-filename = "mobs_behavior_axolotl_ignore_passives_v3.4.zip"
+filename = "purpurpack-axolotls-ignore-passives-3.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uqr5V1OT/versions/8ov1vd0M/mobs_behavior_axolotl_ignore_passives_v3.4.zip"
+url = "https://cdn.modrinth.com/data/uqr5V1OT/versions/xxhFopxV/purpurpack-axolotls-ignore-passives-3.5.jar"
 hash-format = "sha512"
-hash = "8652b11af96cb9ad93af166344c5c706536a37ab74e0fd813ec9522b7fbf0d2c3e7dd7d5d73286982d45525dcbaaa900f172702d34f68f40884261e8ec9e4213"
+hash = "541f5e8fe6cae18f36cb89d2be5dd5760be7a2e71c374ae11a3a383bf2fc0d7ab55b31b62b41cd7d48c86de39ed2a7201f246f879d73b36d33fd5defa6b496ee"
 
 [update]
 [update.modrinth]
 mod-id = "uqr5V1OT"
-version = "8ov1vd0M"
+version = "xxhFopxV"

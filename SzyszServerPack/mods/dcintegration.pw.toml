@@ -1,13 +1,13 @@
 name = "Discord Integration"
-filename = "dcintegration-fabric-MC1.21.6-3.1.0.1.jar"
+filename = "dcintegration-fabric-MC1.21.10-3.1.0.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/rbJ7eS5V/versions/JOLMTAVo/dcintegration-fabric-MC1.21.6-3.1.0.1.jar"
+url = "https://cdn.modrinth.com/data/rbJ7eS5V/versions/DJOsldZY/dcintegration-fabric-MC1.21.10-3.1.0.1.jar"
 hash-format = "sha512"
-hash = "fbb6bdf5b6461db1018d1b7a6c5eb8ba42cd09035c304aad389f1a1877514b71fd9c87344ef05ad92efe342b4288292fc10b234bf53f5168f3943b3c0cae2504"
+hash = "06cf724b3d3572046e232e8896cd23a87934c8a9ab8cafceba0cb18a4af0bd71814b5618bc0c320331c5c1a918776ae281f3313bad3b76fd51dd53662732c97b"
 
 [update]
 [update.modrinth]
 mod-id = "rbJ7eS5V"
-version = "JOLMTAVo"
+version = "DJOsldZY"

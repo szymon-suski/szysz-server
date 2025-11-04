@@ -1,13 +1,13 @@
 name = "Re-Dye Glass [PurpurPack]"
-filename = "crafting_re_dye_glass_v4.4.zip"
+filename = "purpurpacks-re-dye-glass-4.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sbHA4Z4I/versions/LsRGMzrx/crafting_re_dye_glass_v4.4.zip"
+url = "https://cdn.modrinth.com/data/sbHA4Z4I/versions/TeT4looI/purpurpacks-re-dye-glass-4.5.jar"
 hash-format = "sha512"
-hash = "56f58d3676f5ca225dfcdfc5ea6bdf9133bc2e2a754f5252949ba7ad22eb1887006001a6cd6402d20ffb0e39da01154cfc3999170ae91cb517d9592ba7535a56"
+hash = "a105f2574b37d0d7c806ae08d39c0e5893fe215c896d1c9738d55972fd428932648a7d92198cc16f321075914c896bcb6607227dd59bb166cffdcd34aedda0d4"
 
 [update]
 [update.modrinth]
 mod-id = "sbHA4Z4I"
-version = "LsRGMzrx"
+version = "TeT4looI"

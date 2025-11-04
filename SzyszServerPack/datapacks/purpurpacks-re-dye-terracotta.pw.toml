@@ -1,13 +1,13 @@
 name = "Re-Dye Terracotta [PurpurPack]"
-filename = "crafting_re_dye_terracotta_v4.4.zip"
+filename = "purpurpacks-re-dye-terracotta-4.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lANiwxxT/versions/vsP52ZJ3/crafting_re_dye_terracotta_v4.4.zip"
+url = "https://cdn.modrinth.com/data/lANiwxxT/versions/GAx0VNba/purpurpacks-re-dye-terracotta-4.5.jar"
 hash-format = "sha512"
-hash = "13fd3eabe11650f0447da7f2da197407e099b4837c101dca34fa0e2ee48ca2792ace61fde49141c82d93780620f1a83582761673550013fbf4d483e9bbdb6257"
+hash = "a39616b494d982cd0e8a94329fc0c692babafce0fc21ad941b492a816379bc9f63e9d09d001e3cfbc72e6fbdc6c3c6647a55e414ab920db1f71597b7e3534907"
 
 [update]
 [update.modrinth]
 mod-id = "lANiwxxT"
-version = "vsP52ZJ3"
+version = "GAx0VNba"
