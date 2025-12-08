@@ -71,6 +71,11 @@ hash = "f34fa12fe7701cf0776fef1a1f1e2e3c7227f53302b3d87b7ff307f0446a68d2"
 metafile = true
 
 [[files]]
+file = "mods/bettercoppergolem.pw.toml"
+hash = "953b6bd613d4e6acc8581c59e0265367a5c005fb29287736da21b169c070b7e7"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "24737d4ec343e590df0fb597f52bd792557300b659b828492bfd51d63c1fe52d"
 metafile = true
