@@ -196,11 +196,6 @@ hash = "95e02a0a1cdaf9dbcb8253a5df3c44c66926647d3666c4987237c1bbc4ec436c"
 metafile = true
 
 [[files]]
-file = "mods/servux.pw.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-metafile = true
-
-[[files]]
 file = "mods/silk.pw.toml"
 hash = "a4c742db2f87bd02aa5dfd47faab025d985a9e21e69c72dd923a643a7a908513"
 metafile = true
