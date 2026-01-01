@@ -1,0 +1,13 @@
+name = "Servux"
+filename = "servux-fabric-1.21.10-0.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a19f28f232f19812a3a7b9b8f798f9a71d197dce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7130854
+project-id = 406323
