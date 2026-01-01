@@ -1,69 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
-file = "datapacks/anti enderman grief v1.1.15 (MC 1.21-1.21.11).zip"
-hash = "5cb612407cb72ac8e9629287fdc903b3b9df6cef379e2d2e1875edbd7dddc1b1"
-
-[[files]]
 file = "datapacks/armor-statues-datapack.pw.toml"
 hash = "c9d215756d276588de476a1b5905bef6c7b0f0e138de8064aa94cdc28533bf10"
 metafile = true
-
-[[files]]
-file = "datapacks/coordinates hud v1.2.16 (MC 1.21-1.21.11).zip"
-hash = "f40582e026e982aa1aa402f4f4a23fde41653fac879867a2fb6baa555b1d18ea"
-
-[[files]]
-file = "datapacks/double shulker shells v1.3.15 (MC 1.21-1.21.11).zip"
-hash = "4eb19b2261634f41e6585564d5e01f178efa0d656e1d451d4f77252329043913"
-
-[[files]]
-file = "datapacks/mini blocks v1.1.5 (MC 1.21-1.21.11).zip"
-hash = "d710a44f67f2ab175384bcb7a581150f03e258f29199d1c88cc526cd2df50215"
-
-[[files]]
-file = "datapacks/more mob heads v2.18.0 (MC 1.21-1.21.11).zip"
-hash = "fb5508605f6712f9999a134664670273241334ddab97fce899789cdcdfbd9f95"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.15 (MC 1.21-1.21.11).zip"
-hash = "f772d4b90358cc0266f73c6a8cc9d9dbd849d1c50bff085f644bdb76b75c4b28"
-
-[[files]]
-file = "datapacks/nether portal coords v1.1.15 (MC 1.21-1.21.11).zip"
-hash = "2277092a3b9c27d54db7bc7a0d0e2d7325ff853c12e009053f2ce955f683f29a"
-
-[[files]]
-file = "datapacks/player head drops v1.1.15 (MC 1.21-1.21.11).zip"
-hash = "3513d89915854e09f4f112f230f1eed91b53a80fe22a02f320277654c15e04f3"
-
-[[files]]
-file = "datapacks/silence mobs v1.2.9 (MC 1.21-1.21.11).zip"
-hash = "f10a5d01b4ab1e660c963acc3e51b3615db170fc8dfe89e835fe4f331e8760b5"
-
-[[files]]
-file = "datapacks/spawning spheres v1.1.15 (MC 1.21-1.21.11).zip"
-hash = "2e99c81390ff3604b98a213e6c5d4eff59c5d70fad14bc92c0cbe3e4dd6be0a2"
-
-[[files]]
-file = "datapacks/track raw statistics v1.7.11 (MC 1.21-1.21.11).zip"
-hash = "3ba118c7182307739df6ae69779df58efb3fbf66bbb07947b251304441f2b8de"
-
-[[files]]
-file = "datapacks/unlock all recipes v2.0.16 (MC 1.21-1.21.11).zip"
-hash = "de8ae409b1b0fa48512449bc72ee06388fbbb30098307cd54481e5dd3dd9e96a"
-
-[[files]]
-file = "datapacks/villager workstation highlights v1.1.15 (MC 1.21-1.21.11).zip"
-hash = "8517a048e53454673845e2f35bc04a1f60249b5b21af5976a2fb8aa89f281269"
-
-[[files]]
-file = "datapacks/wandering trader announcements v1.0.8 (MC 1.21-1.21.11).zip"
-hash = "c3e28b635024d4eb5e021235d52d2ad87620c700de0cdda0de0c5c759f61637a"
-
-[[files]]
-file = "datapacks/wandering trades v1.7.14 (MC 1.21-1.21.11).zip"
-hash = "f9162390d08d058034f536bb5f5e8d87237d44d8a715058778ead6edd675d18e"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -131,11 +71,6 @@ hash = "1c0119cea1e398bc5192c42ba23c93857335e791c4ee4644fd98689a1863d17f"
 metafile = true
 
 [[files]]
-file = "mods/craterlib.pw.toml"
-hash = "d036c801bc536e98cb8e5fb4c6a4be038d5e4facae4a73850588f58559cceb48"
-metafile = true
-
-[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "ac13f85b3ba6ca40c3e760041c105ecfce89638700552dc2fe7df97698680534"
 metafile = true
@@ -183,11 +118,6 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "0fcb21a2580ad82270c404aa36e042926a7f35b0151f785bd6c6afce23e6edc4"
-metafile = true
-
-[[files]]
-file = "mods/maintenancemode.pw.toml"
-hash = "be97476a17c343a9e5c2b5ba2616ed77b134777ceb23fa40940abd42acc128c2"
 metafile = true
 
 [[files]]
