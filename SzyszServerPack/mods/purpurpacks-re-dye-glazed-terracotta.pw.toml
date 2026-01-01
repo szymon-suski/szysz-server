@@ -1,0 +1,13 @@
+name = "Re-Dye Glazed Terracotta [PurpurPack]"
+filename = "purpurpacks-re-dye-glazed-terracotta-2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mBcDOO3o/versions/FsbMBH6T/purpurpacks-re-dye-glazed-terracotta-2.6.jar"
+hash-format = "sha512"
+hash = "e266e4fcf1df40f0fb9744900db6636804aba8643c5348fc42ea1db44c0e54a8d71a4dd1af3ccd359ed0f988e5c7bd1b270677eedf73ca8e675c2fb3aa616fea"
+
+[update]
+[update.modrinth]
+mod-id = "mBcDOO3o"
+version = "FsbMBH6T"

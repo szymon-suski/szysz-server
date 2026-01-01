@@ -1,0 +1,13 @@
+name = "Re-Dye Concrete [PurpurPack]"
+filename = "purpurpacks-re-dye-concrete-2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1hrzfBkm/versions/nNCFLBOX/purpurpacks-re-dye-concrete-2.6.jar"
+hash-format = "sha512"
+hash = "1b78ca890d37f3697e7299646b9b628b5d07e7ebb234a13e7234cdb28522ffdd7cb8b7b5ae9a520ae449ebefbdc9643e05f4a26f951d85de9e9b6d718c5507f1"
+
+[update]
+[update.modrinth]
+mod-id = "1hrzfBkm"
+version = "nNCFLBOX"

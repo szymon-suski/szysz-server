@@ -1,0 +1,13 @@
+name = "Re-Dye Concrete Powder [PurpurPack]"
+filename = "purpurpacks-re-dye-concrete-powder-4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DUoieMnq/versions/P7WRMVz3/purpurpacks-re-dye-concrete-powder-4.6.jar"
+hash-format = "sha512"
+hash = "1b78ecdab581805c7c3410a494d1d7fc6bdb5add046b9d55b7ea10015fb5230f9ad111ca2f24a9051ee90eb29d60dff5d004a4f18f53dbc208ec49bc94ff38e4"
+
+[update]
+[update.modrinth]
+mod-id = "DUoieMnq"
+version = "P7WRMVz3"

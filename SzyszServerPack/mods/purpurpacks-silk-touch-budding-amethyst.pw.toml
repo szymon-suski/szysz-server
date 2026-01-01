@@ -1,0 +1,13 @@
+name = "Silk Touch Budding Amethyst [PurpurPack]"
+filename = "purpurpacks-silk-touch-budding-amethyst-4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7P6tQJuB/versions/da3sRsP8/purpurpacks-silk-touch-budding-amethyst-4.6.jar"
+hash-format = "sha512"
+hash = "bccd7adc565a5340b0063cdec59c823607356f580462a0543352987119b96bf4df1fd1d148120c056aec5e1aa2ce4c27fe8db0019e0e96e40b6092a98554f934"
+
+[update]
+[update.modrinth]
+mod-id = "7P6tQJuB"
+version = "da3sRsP8"

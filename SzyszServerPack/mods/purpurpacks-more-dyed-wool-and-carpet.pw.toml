@@ -1,0 +1,13 @@
+name = "More Dyed Wool and Carpet [PurpurPack]"
+filename = "purpurpacks-more-dyed-wool-and-carpet-5.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z9M75QAX/versions/Z0syHaHZ/purpurpacks-more-dyed-wool-and-carpet-5.6.jar"
+hash-format = "sha512"
+hash = "bf3e8b98e89e4d265396584eb8d7754230944b2b0a1660e66f2ca64c982a20cee447de16951f1c44d9698733b86bf87a2237d24c2f923e127fc89bdadbc768ba"
+
+[update]
+[update.modrinth]
+mod-id = "z9M75QAX"
+version = "Z0syHaHZ"
