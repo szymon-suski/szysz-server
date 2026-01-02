@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "ac13f85b3ba6ca40c3e760041c105ecfce89638700552dc2fe7df97698680534"
+hash = "6f3aa6e9d209a7eaa2c373294c0e59cdf116e498d43e7e57b76844f2bc368a02"
 metafile = true
 
 [[files]]
@@ -211,6 +211,11 @@ hash = "751f1092fa317fb79e59bda34c08ae076dbee41e6799cbadde5eb8ece1d311a1"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9c15d70a164a6e16b09212b6a24d097003f86bb595634a66c04b9a31dff38ff4"
 metafile = true
@@ -281,6 +286,11 @@ hash = "08b89b53c392b5fa29198418df8598404d93c58eae40d432caed797c828adbd5"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "3b1cab0b2f9ff5880e8b82c53c47cf502c4b47f74a45f4a9a45a6aef0de24b9a"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "f8231b6ff29c1ff27d5acd191929609e98706c498abe61369db53554b0638548"
 metafile = true
@@ -338,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "f5862523110dc5abda04f78f9810e79fb81b0f4e827777ffc93df9fb991d00fe"
 metafile = true
 
 [[files]]

@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "ac13f85b3ba6ca40c3e760041c105ecfce89638700552dc2fe7df97698680534"
+hash = "6f3aa6e9d209a7eaa2c373294c0e59cdf116e498d43e7e57b76844f2bc368a02"
 metafile = true
 
 [[files]]
@@ -111,6 +111,11 @@ hash = "1f84728bef097ce5e27cd8478dd385935746ad8f171d701f0f17dfc6be8b5a09"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
 metafile = true
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/mysql-jdbc.pw.toml"
 hash = "6c82993a705738c3baad5df1728282c4da76add31e6f2e45227ddcb6313fb1f5"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "3b1cab0b2f9ff5880e8b82c53c47cf502c4b47f74a45f4a9a45a6aef0de24b9a"
 metafile = true
 
 [[files]]
@@ -196,6 +206,11 @@ hash = "95e02a0a1cdaf9dbcb8253a5df3c44c66926647d3666c4987237c1bbc4ec436c"
 metafile = true
 
 [[files]]
+file = "mods/servux.pw.toml"
+hash = "f3b5fd87fcc538dfb46b73005ab3e0c67ce66995c570677f1e46a912f968b671"
+metafile = true
+
+[[files]]
 file = "mods/silk.pw.toml"
 hash = "a4c742db2f87bd02aa5dfd47faab025d985a9e21e69c72dd923a643a7a908513"
 metafile = true
@@ -213,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "f5862523110dc5abda04f78f9810e79fb81b0f4e827777ffc93df9fb991d00fe"
 metafile = true
 
 [[files]]
